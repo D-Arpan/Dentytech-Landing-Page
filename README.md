@@ -47,7 +47,7 @@ DentyTech-Landing-Page/
 1. Clone the repo:
    ```bash
    git clone https://github.com/d-arpan/Dentytech-Landing-Page.git
-````
+
 
 2. Navigate into the project folder:
 
