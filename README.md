@@ -29,7 +29,7 @@ A modern, animated landing page built from scratch using **pure HTML5** and **CS
 
 ## 📁 Project Structure
 
-```
+
 
 DentyTech-Landing-Page/
 ├── index.html
@@ -38,7 +38,6 @@ DentyTech-Landing-Page/
 ├── fonts/            # custom font files
 └── README.md
 
-````
 
 ---
 
@@ -88,5 +87,5 @@ This landing page is a great starting point for:
 
 Star ⭐️ the repository if you found this useful!
 
-```
+
 
