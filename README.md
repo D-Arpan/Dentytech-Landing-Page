@@ -1,6 +1,6 @@
-Sure! Here’s the full **README.md** in a single code block for you to copy directly:
 
-```markdown
+
+
 # DentyTech – Responsive Landing Page
 
 Live Preview ➜ [https://d-arpan.github.io/Dentytech-Landing-Page/](https://d-arpan.github.io/Dentytech-Landing-Page/)
